@@ -2,8 +2,8 @@
 
 ## Welcome to FroCoS 2023
 
-FroCoS 2023 will take place at the Czech Institute of Informatics, Robotics and Cybernetics (CIIRC) of the Czech Technical University in Prague (CTU), Czech Republic
-on September 20-22, 2023.
+FroCoS 2023 will take place at the <a href="https://www.ciirc.cvut.cz/en">Czech Institute of Informatics, Robotics and Cybernetics (CIIRC)</a>
+of the <a href="https://www.cvut.cz/en">Czech Technical University in Prague (CTU)</a>, Czech Republic on September 20-22, 2023.
 
 The conference is the 14th in a series of meetings of the International Symposium on Frontiers of Combining Systems (FroCoS).
 
