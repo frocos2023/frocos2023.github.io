@@ -6,20 +6,19 @@ This guidance document is a minimally modified version of the one for ISWC 2022 
 ## Table of Contents                                                                
 
 - [Review content](#ReviewContent)
-- &nbsp;&nbsp; [Provide a detailed and constructive review](#ProvideD&CReview)
-- &nbsp;&nbsp; [Be civil and polite](#BeCivilAndPolite)
-- &nbsp;&nbsp; [Adequately justify your recommendation](#AdequatelyJYRecomm)
-- &nbsp;&nbsp; [Be honest about your understanding of the paper](#BeHonestAYUnderstandingOfThePaper)
-- &nbsp;&nbsp; [Suggested review structure](#SuggestedRevStructure)
+- &nbsp;&nbsp;&nbsp;&nbsp; [Provide a detailed and constructive review](#ProvideD&CReview)
+- &nbsp;&nbsp;&nbsp;&nbsp;  [Be civil and polite](#BeCivilAndPolite)
+- &nbsp;&nbsp;&nbsp;&nbsp; [Adequately justify your recommendation](#AdequatelyJYRecomm)
+- &nbsp;&nbsp;&nbsp;&nbsp; [Be honest about your understanding of the paper](#BeHonestAYUnderstandingOfThePaper)
+- [Suggested review structure](#SuggestedRevStructure)
                                 
 ## Review content  {#ReviewContent}
 
 We discuss four guidelines for reviews. We include examples of things to avoid in reviews, compared with examples of what would be better to include in a review.
                                                 
 ### Provide a detailed and constructive review  {#ProvideDAndCReview}
-                                                
-												Please provide reviews that help the authors to improve their work, particularly in cases where your recommendation is to reject the paper. Please avoid vague, subjective or overly-general feedback that could apply to any paper. Rather aim to provide detailed feedback that is specific to the paper under review, and indicates concrete ways in which the paper could be improved.
 
+Please provide reviews that help the authors to improve their work, particularly in cases where your recommendation is to reject the paper. Please avoid vague, subjective or overly-general feedback that could apply to any paper. Rather aim to provide detailed feedback that is specific to the paper under review, and indicates concrete ways in which the paper could be improved.
 
 | Examples to avoid |	Better examples |
 |----------- |----------- | 
