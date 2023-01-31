@@ -6,17 +6,17 @@ This guidance document is a minimally modified version of the one for ISWC 2022 
 ## Table of Contents                                                                
 
 - [Review content](#ReviewContent)
--- [Provide a detailed and constructive review](#ProvideD&CReview)
- Be civil and polite
- Adequately justify your recommendation
- Be honest about your understanding of the paper
-Suggested review structure
+- &nbsp;&nbsp; [Provide a detailed and constructive review](#ProvideD&CReview)
+- &nbsp;&nbsp; [Be civil and polite](#BeCivilAndPolite)
+- &nbsp;&nbsp; [Adequately justify your recommendation](#AdequatelyJYRecomm)
+- &nbsp;&nbsp; [Be honest about your understanding of the paper](#BeHonestAYUnderstandingOfThePaper)
+- &nbsp;&nbsp; [Suggested review structure](#SuggestedRevStructure)
                                 
 ## Review content  {#ReviewContent}
 
 We discuss four guidelines for reviews. We include examples of things to avoid in reviews, compared with examples of what would be better to include in a review.
                                                 
-### Provide a detailed and constructive review  {#ProvideD&CReview}
+### Provide a detailed and constructive review  {#ProvideDAndCReview}
                                                 
 												Please provide reviews that help the authors to improve their work, particularly in cases where your recommendation is to reject the paper. Please avoid vague, subjective or overly-general feedback that could apply to any paper. Rather aim to provide detailed feedback that is specific to the paper under review, and indicates concrete ways in which the paper could be improved.
 
@@ -40,7 +40,7 @@ We discuss four guidelines for reviews. We include examples of things to avoid i
 (No justification or details provided.) |
 	“The title and introduction of the paper focus on data quality, but the techniques described and evaluated in the rest of the paper seem to apply standard OWL reasoners over the data for motivations that appear to me largely unrelated to data quality. The authors should clarify their contribution in the introduction and ensure that it reflects the content of the paper.”|
                 
-### Be civil and polite  {#BeCivil&Polite}
+### Be civil and polite  {#BeCivilAndPolite}
                                                 
 Please keep a civil tone. Though (almost) nobody sets out to be uncivil, it can be challenging to avoid indeliberately coming across as being “harsh” in anonymous reviews. Keep in mind that you may be reviewing the papers of students who are new to research and the community, or more generally, the papers of authors who have invested a lot of time and effort into their work. Your review should be constructive. Your review should include discussions of both positive and negative aspects rather than focusing only on negatives. Your review should not be disparaging or dismissive, and should avoid unnecessarily negative language. Until proven otherwise, you should assume good faith on the part of the authors. Avoid calling into question the ethics or honesty of the authors, but rather keep your review factual. If you have an ethical concern regarding a paper, please discuss it with other PCs or the FroCoS chairs.                         
                                         
@@ -201,7 +201,11 @@ Most reviewers have developed their own style of review over time, and no indivi
 * Overview: Summarise the paper in your own words in a short, concise paragraph. While the authors (presumably) already know what their paper is about, this demonstrates to the authors, other reviewers, and chairs the extent to which you understood the paper, and what your personal perspective of the paper is. If you can provide a good overview, the authors will tend to value your opinion more. It is also a good exercise to ensure that you understand the paper. (In case there are parts of the paper you did not understand, clarify them here.)
 
 - Strengths: Summarise around three main strengths of the paper as concise bullet points. Being able to expand on the positive aspects of the paper can be encouraging to authors, and can also help them to improve their work by building upon those strengths.
+
 - Weaknesses: Summarise around three main weaknesses of the paper as concise bullet points. You do not need to go into too much detail yet. Do not include minor issues here. Consider criteria as listed in the call and in the questions of the review form (e.g., relevance, impact, clarity, reproducibility) when preparing the list of weaknesses.
+
 - Detailed comments: Discuss in more detail each of the weaknesses. As a guide, you could aim for a paragraph on each weakness. Relate each weakness to specific aspects in the paper. Relate them to the criteria in the call for papers, if necessary. Be constructive, polite and factual. Always try to clarify how the authors could realistically address these weaknesses, providing details. If you cannot clearly justify your reason for listing a weakness here, remove it.
+
 - Recommendation: Explicitly state your recommendation (reject, borderline, accept, etc.). Relate your recommendation to the aforementioned strengths and weaknesses. Almost every paper, even strong ones, have weaknesses. Not all weaknesses are grounds for rejection. Some might refer to limitations that could be addressed for future work. Other weaknesses might be adequately addressed as part of the camera-ready version (e.g., being more upfront about certain limitations). In case you accept, make clear what improvements (if any) you expect for a camera ready version. In case you recommend a rejection, provide a summary of directions in which the authors could improve their work.
+
 - Minor comments: Provide here minor comments that seem to have an easy and uncontroversial fix, such as spelling mistakes, grammatical mistakes, bugs in notation. In case such errors are frequent, you can opt to provide 3-4 illustrative examples, and also list the general issue as a weakness above (e.g., if frequently poor grammar makes the paper very difficult to understand, make that a key weakness).
