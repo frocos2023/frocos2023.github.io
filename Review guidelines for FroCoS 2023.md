@@ -20,6 +20,12 @@ We discuss four guidelines for reviews. We include examples of things to avoid i
 
 Please provide reviews that help the authors to improve their work, particularly in cases where your recommendation is to reject the paper. Please avoid vague, subjective or overly-general feedback that could apply to any paper. Rather aim to provide detailed feedback that is specific to the paper under review, and indicates concrete ways in which the paper could be improved.
 
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
 | Examples to avoid |	Better examples |
 |----------- |----------- | 
 | “The paper lacks novelty.”
