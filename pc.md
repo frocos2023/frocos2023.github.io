@@ -4,6 +4,7 @@
 
 - [Carlos Areces](http://www.cs.famaf.unc.edu.ar/~careces/)                        FaMAF - Universidad Nacional de Córdoba
 - [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html)              TU Dresden
+- [Haniel Barbosa](https://homepages.dcc.ufmg.br/~hbarbosa/)  Universidade Federal de Minas Gerais
 - [Peter Baumgartner](https://people.csiro.au/B/P/Peter-Baumgartner/)                        CSIRO
 - [Clare Dixon](https://www.research.manchester.ac.uk/portal/clare.dixon.html)   University of Manchester
 - [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)   University of Freiburg
