@@ -13,6 +13,7 @@
 - [Andreas Herzig](https://www.irit.fr/~Andreas.Herzig/)  IRIT at Université Paul Sabatier
 - [Jean Christoph Jung](http://www.informatik.uni-bremen.de/~jeanjung/)                  Universität Bremen
 - [Roman Kontchakov](http://www.dcs.bbk.ac.uk/~roman)                                 Birkbeck, University of London
+- [Naoki Nishida](https://www.trs.css.i.nagoya-u.ac.jp/~nishida/index-en.html)        Nagoya University
 - [Giles Reger](http://www.cs.man.ac.uk/~regerg)                                 Amazon Web Services and The University of Manchester
 - [Andrew Reynolds](http://homepage.cs.uiowa.edu/~ajreynol/)  The University of Iowa
 - [Christophe Ringeissen](https://members.loria.fr/CRingeissen/)  LORIA - Université de Lorraine
@@ -23,6 +24,7 @@
 - [Viorica Sofronie-Stokkermans](http://userpages.uni-koblenz.de/~sofronie/)                      University Koblenz-Landau
 - [K. Subramani](https://directory.statler.wvu.edu/faculty-staff-directory/k-subramani)                          West Virginia University
 - [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/)                          Czech Technical University in Prague (Chair)
+- [Dmitriy Traytel](https://www21.in.tum.de/~traytel/)     University of Copenhagen
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/)                             Max Planck Institute for Informatics
 - [Piotr Wojciechowski](https://directory.statler.wvu.edu/faculty-staff-directory/piotr-wojciechowski)                          West Virginia University
 
