@@ -6,18 +6,19 @@
 - [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html)              TU Dresden
 - [Peter Baumgartner](https://people.csiro.au/B/P/Peter-Baumgartner/)                        CSIRO
 - [Clare Dixon](https://www.research.manchester.ac.uk/portal/clare.dixon.html)   University of Manchester
-- [Mathias	Fleury](https://cca.informatik.uni-freiburg.de/fleury/)   University of Freiburg
+- [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)   University of Freiburg
 - [Didier Galmiche](http://www.loria.fr/~galmiche)                                   LORIA - Université de Lorraine
 - [Silvio Ghilardi](http://users.mat.unimi.it/users/ghilardi/allegati/research.html) Dipartimento di Matematica, Università degli Studi di Milano
 - [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/)                             RWTH Aachen University
 - [Andreas Herzig](https://www.irit.fr/~Andreas.Herzig/)  IRIT at Université Paul Sabatier
 - [Jean Christoph Jung](http://www.informatik.uni-bremen.de/~jeanjung/)                  Universität Bremen
 - [Roman Kontchakov](http://www.dcs.bbk.ac.uk/~roman)                                 Birkbeck, University of London
+- [Paliath Narendran](http://www.cs.albany.edu/~dran/)                                University at Albany - SUNY
 - [Naoki Nishida](https://www.trs.css.i.nagoya-u.ac.jp/~nishida/index-en.html)        Nagoya University
 - [Giles Reger](http://www.cs.man.ac.uk/~regerg)                                 Amazon Web Services and The University of Manchester
 - [Andrew Reynolds](http://homepage.cs.uiowa.edu/~ajreynol/)  The University of Iowa
 - [Christophe Ringeissen](https://members.loria.fr/CRingeissen/)  LORIA - Université de Lorraine
-- [Philipp Ruemmer](http://www.philipp.ruemmer.org/)                                 Uppsala University
+- [Philipp Rümmer](http://www.philipp.ruemmer.org/)                                 Uppsala University
 - [Uli	Sattler](http://www.cs.man.ac.uk/~sattler/)                              The University of Manchester (Chair)
 - [Renate A. Schmidt](http://www.cs.man.ac.uk/~schmidt/)                             The University of Manchester
 - [Roberto Sebastiani](http://disi.unitn.it/rseba/)                                     University of Trento
