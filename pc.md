@@ -3,6 +3,7 @@
 ## Program Committee
 
 - [Carlos Areces](http://www.cs.famaf.unc.edu.ar/~careces/)                        FaMAF - Universidad Nacional de Córdoba
+- [Alessandro Artale](https://www.unibz.it/it/faculties/computer-science/academic-staff/person/3026-alessandro-artale)  Free University of Bolzano-Bozen
 - [Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html)              TU Dresden
 - [Haniel Barbosa](https://homepages.dcc.ufmg.br/~hbarbosa/)  Universidade Federal de Minas Gerais
 - [Peter Baumgartner](https://people.csiro.au/B/P/Peter-Baumgartner/)                        CSIRO
