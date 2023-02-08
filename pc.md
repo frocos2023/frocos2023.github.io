@@ -16,6 +16,7 @@
 - [Jean Christoph Jung](http://www.informatik.uni-bremen.de/~jeanjung/)                  Universität Bremen
 - [Roman Kontchakov](http://www.dcs.bbk.ac.uk/~roman)                                 Birkbeck, University of London
 - [Paliath Narendran](http://www.cs.albany.edu/~dran/)                                University at Albany - SUNY
+- [Aina Niemetz](https://cs.stanford.edu/~niemetz/)                                Stanford University
 - [Naoki Nishida](https://www.trs.css.i.nagoya-u.ac.jp/~nishida/index-en.html)        Nagoya University
 - [Giles Reger](http://www.cs.man.ac.uk/~regerg)                                 Amazon Web Services and The University of Manchester
 - [Andrew Reynolds](http://homepage.cs.uiowa.edu/~ajreynol/)  The University of Iowa
