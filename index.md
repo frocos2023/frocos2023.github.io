@@ -7,7 +7,7 @@ of the <a href="https://www.cvut.cz/en">Czech Technical University in Prague (CT
 
 The conference is the 14th in a series of meetings of the International Symposium on Frontiers of Combining Systems (FroCoS).
 
-FroCoS 2023 will be colocated with the 32nd International Conference on Automated Reasoning with Analytic Tableaux and Related Methods <a href="https://tableaux2023.github.io/">TABLEAUX 2023</a>.
+FroCoS 2023 will be colocated with the 32nd International Conference on Automated Reasoning with Analytic Tableaux and Related Methods <a href="https://tableaux2023.tableaux-ar.org/">TABLEAUX 2023</a>.
 
 ## Aims
 
