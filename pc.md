@@ -31,6 +31,7 @@
 - [Dmitriy Traytel](https://www21.in.tum.de/~traytel/)     University of Copenhagen
 - [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/)                             Max Planck Institute for Informatics
 - [Piotr Wojciechowski](https://directory.statler.wvu.edu/faculty-staff-directory/piotr-wojciechowski)                          West Virginia University
+- [Akihisa Yamada](https://akihisayamada.github.io/)        AIST
 
 ## Local Organisers
 
