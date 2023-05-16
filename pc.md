@@ -39,4 +39,5 @@
 - [Jan Jakubuv](http://people.ciirc.cvut.cz/~jakubja5/) Czech Technical University in Prague
 - [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) Czech Technical University in Prague
 - [Josef Urban](http://people.ciirc.cvut.cz/~urbanjo3/) Czech Technical University in Prague
+- [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/~cek/) University of Innsbruck, Austria
 
