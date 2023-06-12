@@ -13,7 +13,6 @@
 - [Silvio Ghilardi](http://users.mat.unimi.it/users/ghilardi/allegati/research.html) Dipartimento di Matematica, Università degli Studi di Milano
 - [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/)                             RWTH Aachen University
 - [Andreas Herzig](https://www.irit.fr/~Andreas.Herzig/)  IRIT at Université Paul Sabatier
-- [Jean Christoph Jung](http://www.informatik.uni-bremen.de/~jeanjung/)                  Universität Bremen
 - [Roman Kontchakov](http://www.dcs.bbk.ac.uk/~roman)                                 Birkbeck, University of London
 - [Paliath Narendran](http://www.cs.albany.edu/~dran/)                                University at Albany - SUNY
 - [Aina Niemetz](https://cs.stanford.edu/~niemetz/)                                Stanford University
@@ -40,4 +39,3 @@
 - [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/) Czech Technical University in Prague
 - [Josef Urban](http://people.ciirc.cvut.cz/~urbanjo3/) Czech Technical University in Prague
 - [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/~cek/) University of Innsbruck, Austria
-
