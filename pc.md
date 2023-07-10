@@ -11,7 +11,7 @@
 - [Mathias Fleury](https://cca.informatik.uni-freiburg.de/fleury/)   University of Freiburg
 - [Didier Galmiche](http://www.loria.fr/~galmiche)                                   LORIA - Université de Lorraine
 - [Silvio Ghilardi](http://users.mat.unimi.it/users/ghilardi/allegati/research.html) Dipartimento di Matematica, Università degli Studi di Milano
-- [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/)                             RWTH Aachen University
+- [Jürgen Giesl](http://verify.rwth-aachen.de/giesl/) RWTH Aachen University
 - [Andreas Herzig](https://www.irit.fr/~Andreas.Herzig/)  IRIT at Université Paul Sabatier
 - [Roman Kontchakov](http://www.dcs.bbk.ac.uk/~roman)                                 Birkbeck, University of London
 - [Paliath Narendran](http://www.cs.albany.edu/~dran/)                                University at Albany - SUNY
@@ -24,7 +24,7 @@
 - [Uli	Sattler](http://www.cs.man.ac.uk/~sattler/)                              The University of Manchester (Chair)
 - [Renate A. Schmidt](http://www.cs.man.ac.uk/~schmidt/)                             The University of Manchester
 - [Roberto Sebastiani](http://disi.unitn.it/rseba/)                                     University of Trento
-- [Viorica Sofronie-Stokkermans](http://userpages.uni-koblenz.de/~sofronie/)                      University Koblenz-Landau
+- [Viorica Sofronie-Stokkermans](http://userpages.uni-koblenz.de/~sofronie/)                      University of Koblenz
 - [K. Subramani](https://directory.statler.wvu.edu/faculty-staff-directory/k-subramani)                          West Virginia University
 - [Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/)                          Czech Technical University in Prague (Chair)
 - [Dmitriy Traytel](https://www21.in.tum.de/~traytel/)     University of Copenhagen
