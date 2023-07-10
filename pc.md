@@ -20,7 +20,7 @@
 - [Giles Reger](http://www.cs.man.ac.uk/~regerg)                                 Amazon Web Services and The University of Manchester
 - [Andrew Reynolds](http://homepage.cs.uiowa.edu/~ajreynol/)  The University of Iowa
 - [Christophe Ringeissen](https://members.loria.fr/CRingeissen/)  LORIA - Université de Lorraine
-- [Philipp Rümmer](http://www.philipp.ruemmer.org/)                                 Uppsala University
+- [Philipp Rümmer](http://www.philipp.ruemmer.org/)                                 University of Regensburg
 - [Uli	Sattler](http://www.cs.man.ac.uk/~sattler/)                              The University of Manchester (Chair)
 - [Renate A. Schmidt](http://www.cs.man.ac.uk/~schmidt/)                             The University of Manchester
 - [Roberto Sebastiani](http://disi.unitn.it/rseba/)                                     University of Trento
