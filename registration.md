@@ -21,7 +21,7 @@ The following is a brief program overview.
 
 [Here](http://tableaux2023.tableaux-ar.org/workshops.html) you can find more information about the Tableaux workshops.
 
-## Prices 
+## Prices
 
 | Event         | Early     | Late |
 |--------------|-----------|------------|
@@ -34,5 +34,5 @@ The following is a brief program overview.
 All prices are in EUR.
 The early registration prices are available up to **17th August (GMT time zone)**.  The late prices will take effect from 18th August (GMT).
 
-**Note** that for each paper accepted to FroCoS one author additionally needs to pay Springer open-access fee of 240 EUR (which includes VAT).
+**Note that for each paper accepted to FroCoS** one author additionally needs to pay Springer open-access fee of 240 EUR (which includes VAT).
 
