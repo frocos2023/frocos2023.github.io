@@ -15,20 +15,20 @@ The venue address is: Jugoslávských partyzánů 1580/3, Dejvice, Praha.
 
 In order to get to the conference venue from the Prague airport of Václav Havel
 (PRG), you can use Prague public transport, which is clean and cheap.  Take the bus
-number 119 from the airport to it's final destination Nadrazi Veleslavin.  Then
+number 119 from the airport to its final destination Nadrazi Veleslavin.  Then
 switch to metro (underground) and take line A (green line) to station Dejvicka.
 The journey should take around 40 minutes and it will cost you 40 CZK.  The
 ticket can be purchased from the vending machine at the airport, right at bus
 station in front of the airport terminal building.  See <a
 href="https://pid.cz/en/for-tourists/what-ticket-should-i-use/">Prague
 transport webpage</a> for more info.
-A bus ticket can be recently purchased directly in the bus by a credit/debit card.
+A bus ticket can also be purchased directly in the bus by a credit/debit card.
 
 In order to get to the conference from the Prague main railway station, you can
 walk to the Muzeum station and there take line A (green line) to station
-Dejvicka.  Alternatively, you can use line C to get to Muzeum instead of walking.
+Dejvicka. Alternatively, you can use line C to get to Muzeum instead of walking.
 
-In any case, you can also take a taxi or an Uber.  Google Maps are capable of
+In any case, you can also take a taxi or an Uber/Bolt. Google Maps are capable of
 planning your journey using public transport.
 
 ## Accommodation
