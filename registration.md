@@ -19,6 +19,8 @@ The following is a brief program overview.
 
 ![overview](data/overview.png "Program overview")
 
+[Here](http://tableaux2023.tableaux-ar.org/workshops.html) you can find more information about the Tableaux workshops.
+
 ## Prices 
 
 | Event         | Early     | Late |
