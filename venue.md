@@ -2,9 +2,8 @@
 
 ## Venue
 
-The conference will be located at the <a href="http://ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a> of <a href="http://www.cvut.cz">Czech Technical University in Prague (CTU)</a>.  The main conference track will be held in the <a
-href="https://www.ciirc.cvut.cz/about/ciirc-ctu-building/">Red Room</a> in building B,  workshops will be located in rooms 670 and 671, and coffee breaks will be held in Respirium. When attending the conference, use entrance B from the street Jugoslávských partyzánů and then follow signs pointing you to the conference registration desk.  The registration desk will open at 8:30 AM on Monday.
-
+The conference will be located at the <a href="http://ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a> of <a href="http://www.cvut.cz">Czech Technical University in Prague (CTU)</a>.  
+s
 The venue address is: Jugoslávských partyzánů 1580/3, Dejvice, Praha.
 
 <p><div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1279.5416994861462!2d14.393923821572495!3d50.103445927619916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x72d5d7faff1cb933!2s%C4%8Cesk%C3%BD+institut+informatiky%2C+robotiky+a+kybernetiky!5e0!3m2!1scs!2scz!4v1508487103659" width="480" height="480" frameborder="0" style="border:0" allowfullscreen></iframe></div>
@@ -15,20 +14,20 @@ The venue address is: Jugoslávských partyzánů 1580/3, Dejvice, Praha.
 
 In order to get to the conference venue from the Prague airport of Václav Havel
 (PRG), you can use Prague public transport, which is clean and cheap.  Take the bus
-number 119 from the airport to it's final destination Nadrazi Veleslavin.  Then
+number 119 from the airport to its final destination Nadrazi Veleslavin.  Then
 switch to metro (underground) and take line A (green line) to station Dejvicka.
 The journey should take around 40 minutes and it will cost you 40 CZK.  The
 ticket can be purchased from the vending machine at the airport, right at bus
 station in front of the airport terminal building.  See <a
 href="https://pid.cz/en/for-tourists/what-ticket-should-i-use/">Prague
 transport webpage</a> for more info.
-A bus ticket can be recently purchased directly in the bus by a credit/debit card.
+A bus ticket can also be purchased directly in the bus by a credit/debit card.
 
 In order to get to the conference from the Prague main railway station, you can
 walk to the Muzeum station and there take line A (green line) to station
-Dejvicka.  Alternatively, you can use line C to get to Muzeum instead of walking.
+Dejvicka. Alternatively, you can use line C to get to Muzeum instead of walking.
 
-In any case, you can also take a taxi or an Uber.  Google Maps are capable of
+In any case, you can also take a taxi or an Uber/Bolt. Google Maps are capable of
 planning your journey using public transport.
 
 ## Accommodation
