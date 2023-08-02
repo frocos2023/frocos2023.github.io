@@ -1,203 +1,137 @@
 
-FroCoS 2021 Accepted Papers with Abstracts
+FroCoS 2023 Accepted Papers with Abstracts
 ==========================================
 
+Nils Lommen and [Jürgen Giesl](https://verify.rwth-aachen.de/giesl/).
+**Targeting Completeness: Using Closed Forms for Size Bounds of Integer Programs**
 
-[Martin Suda](http://people.ciirc.cvut.cz/~sudamar2/). 
-**Vampire With a Brain Is a Good ITP Hammer**
-
-**Abstract:** Vampire has been for a long time the strongest first-order automatic  
-theorem prover, widely used for hammer-style proof automation in ITPs  
-such as Mizar, Isabelle, HOL, and Coq. In this work, we considerably  
-improve the performance of Vampire in hammering over the full Mizar  
-library by enhancing its saturation procedure with efficient neural  
-guidance. In particular, we employ a recently proposed recursive neural network  
-classifying the generated clauses based only on their derivation  
-history. Compared to previous neural methods based on considering the  
-logical content of the clauses, our architecture makes evaluating a single clause  
-much less time consuming. The resulting system shows good learning  
-capability and improves on the state-of-the-art performance on the Mizar  
-library, while proving many theorems that the related ENIGMA system  
-could not prove in a similar hammering evaluation.
+**Abstract:** We present a new procedure to infer size bounds for integer programs automatically. Size bounds are important for the deduction of bounds on the runtime complexity or in general, for the resource analysis of programs. We show that our technique is complete (i.e., it always computes finite size bounds) for a subclass of loops, possibly with non-linear arithmetic. Moreover, we present a novel approach to combine and integrate this complete technique into an incomplete approach to infer size and runtime bounds of general integer programs. We prove completeness of our integration for an important subclass of integer programs. We implemented our new algorithm in the automated complexity analysis tool KoAT to evaluate its power, in particular on programs with non-linear arithmetic.
 
 ---
 
-[Zarathustra Goertzel](https://zarathustra.gitlab.io/), Karel Chvalovský, Jan Jakubuv, Miroslav Olšák and [Josef Urban](http://www.ciirc.cvut.cz/~urbanjo3/). 
-**Fast and Slow Enigmas and Parental Guidance**
+Visa Nummelin, [Jasmin Blanchette](https://www.tcs.ifi.lmu.de/mitarbeiter/jasmin-blanchette_de.html) and Sander R. Dahmen
+**Recurrence-Driven Summations in Automated Deduction**
 
-**Abstract:** We describe several additions to the ENIGMA system that guides clause selection in the E automated theorem prover. First, we significantly speed up its neural guidance by adding server-based GPU evaluation. The second addition is motivated by fast weight-based rejection filters that are currently used in systems like E and Prover9. Such systems can be made more intelligent by instead training fast versions of ENIGMA that implement more intelligent pre-filtering. This results in combinations of trainable fast and slow thinking that improves over both the fast-only and slow-only methods. The third addition is based on "judging the children by their parents", i.e., possibly rejecting an inference before it finishes producing a clause. This saves time by not evaluating all clauses by more expensive methods and provides a complementary view of the generated clauses. The methods are evaluated on a large benchmark coming from the Mizar Mathematical Library.
-
----
-
-Qingxiang Wang and [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/). 
-**JEFL: Joint Embedding of Formal Proof Libraries**
-
-**Abstract:** The heterogeneous nature of the logical foundations used in different interactive proof assistant libraries has rendered discovery of similar mathematical concepts among them difficult.  
-In this paper, we compare the previously developed algorithms for matching concepts across libraries with a proposed and developed unsupervised embedding approach that can help us retrieve similar concepts.  
-Our approach is based on the fasttext implementation of Word2Vec, on top of which a tree traversal module is added to adapt its algorithm to the representation format of our data export pipeline.  
-We compare the explainability, customizability, and online-servability of the approaches  
-and argue that the neural embedding approach has more potential to be integrated into an interactive proof assistant.
+**Abstract:** Many problems in mathematics and computer science involve summations. We present a procedure that automatically proves equations involving finite summations, inspired by the theory of holonomic sequences. The procedure is designed to be interleaved with the activities of a higher-order automatic theorem prover. It performs an induction and automatically solves the induction step, leaving the base cases to the theorem prover.
 
 ---
 
-[Martin Bromberger](http://people.mpi-inf.mpg.de/~mbromber/), Irina Dragoste, Rasha Faqeh, Christof Fetzer, [Markus Krötzsch](https://kbs.inf.tu-dresden.de/mak/) and [Christoph Weidenbach](http://www.mpi-inf.mpg.de/~weidenb/). 
-**A Datalog Hammer for Supervisor Verification Conditions Modulo Simple Linear Arithmetic**
+Teppei Saito and [Nao Hirokawa](http://www.jaist.ac.jp/~hirokawa/)
 
-**Abstract:** The Bernays-Schönfinkel first-order logic fragment over simple linear real arithmetic constraints BS(SLR) is known to be decidable. 
-We prove that BS(SLR) clause sets with both  universally and existentially quantified verification 
-conditions (conjectures) can be translated into BS(SLR) clause sets over a finite set of first-order constants. For the Horn case, 
-we provide a  Datalog hammer preserving validity and satisfiability. 
-A toolchain from the BS(LRA) prover SPASS-SPL to the Datalog reasoner VLog establishes an effective 
-way of deciding verification  conditions in the Horn fragment. This is exemplified by the verification of supervisor code for a lane change 
-assistant in a car and an electronic control unit for a supercharged combustion engine.
+**Weighted Path Orders are Semantic Path Orders**
+
+**Abstract:** We explore the relationship between weighted path orders and (monotonic) semantic path orders. Our findings reveal that weighted path orders can be considered instances of a variant of semantic path orders that comprise order pairs. This observation leads to a generalization of weighted path orders that does not impose simplicity on underlying algebras. As a result, the generalized version is capable of proving termination of term rewrite systems beyond the realm of simple termination. In order to assess practicality we provide experimental data comparing generalized weighted path orders with original ones as well as other well-known classes of reduction orders.
 
 ---
 
-Filippo Bigarella, [Alessandro Cimatti](http://es.fbk.eu/people/cimatti/), [Alberto Griggio](http://es.fbk.eu/people/griggio/), [Ahmed Irfan](https://ahmed-irfan.github.io), Martin Jonas, Marco Roveri, [Roberto Sebastiani](http://disi.unitn.it/rseba/) and [Patrick Trentin](http://www.patricktrentin.com). 
-**Optimization Modulo Non-Linear Arithmetic via Incremental Linearization**
+Giorgio Cignarale, [Roman Kuznets](https://informatics.tuwien.ac.at/people/roman-kuznets), Hugo Rincon Galeana and Ulrich Schmid
 
-**Abstract:** Incremental linearization is a conceptually simple, yet effective, technique that we have recently proposed for solving SMT problems on the theories of nonlinear arithmetic over the reals and the integers. Optimization Modulo Theories (OMT) is an important extension of SMT which allows for finding models that optimize given objective functions. 
-In this paper, we show how incremental linearization can be extended to OMT in a simple way, producing an incomplete though effective OMT procedure. We describe the main ideas and algorithms, we provide an implementation within the OptiMathSAT OMT solver, and perform an empirical evaluation. The results support the effectiveness of the approach.  
+**Logic of Communication Interpretation: How to not get lost in translation**
 
----
-
-[Franz Baader](http://lat.inf.tu-dresden.de/~baader/index-en.html), [Oliver Fernandez Gil](https://lat.inf.tu-dresden.de/~fernandez/) and Maryam Rostamigiv. 
-**Restricted Unification in the Description Logic FL0**
-
-**Abstract:** Unification in the Description Logic (DL) FL0 is known to be ExpTime-complete, and of unification type zero. We investigate in this paper whether a lower complexity of the unification problem can be achieved by either syntactically restricting the role depth of concepts or semantically restricting the length of role paths in interpretations. We show that the answer to this question depends on whether the number formulating such a restriction is encoded in unary or binary: for unary coding, the complexity drops from ExpTime to PSpace. As an auxiliary result, we prove a PSpace-completeness result for a depth-restricted version of the intersection emptiness problem for deterministic root-to-frontier tree automata. Finally, we also show that the unification type of FL0 improves from type zero to unitary (finitary) for unification without (with) constants.
+**Abstract:** Byzantine fault-tolerant distributed systems are designed to provide resiliency despite arbitrary faults, i.e., even in the presence of agents who do not follow the common protocol and/or despite compromised communication. It is, therefore, common to focus on the perspective of correct agents, to the point that the epistemic state of byzantine agents is completely ignored. Since this view relies on the assumption that faulty agents may behave arbitrarily adversarially, it is overly conservative in many cases. In blockchain settings, for example, dishonest players are usually not malicious, but rather selfish, and thus just follow some "hidden" protocol that is different from the protocol of the honest players. Similarly, in high-availability large-scale distributed systems, software updates cannot be globally instantaneous, but are rather performed node-by-node. Consequently, updated and non updated nodes may simultaneously be involved in a protocol for solving a distributed task like consensus or transaction commit. Clearly, the usual assumption of common knowledge of the protocol is inappropriate in such a setting. On the other hand, joint protocol execution and, sometimes, even basic communication becomes problematic without this assumption: How are agents supposed to interpret each other's messages without knowing their mutual communication protocols? We propose a novel epistemic modality \emph{creed} for epistemic reasoning in heterogeneous distributed systems with agents that are uncertain of the actual communication protocol used by their peers. We show that the resulting logic is quite closely related to modal logic S5, the standard logic of epistemic reasoning in distributed systems. We demonstrate the utility of our approach by several examples.
 
 ---
 
-Mostafa Sakr and Renate A. Schmidt. 
-**Semantic Forgetting in Expressive Description Logics**
+Guilherme Toledo, [Yoni Zohar](https://u.cs.biu.ac.il/~zoharyo1/) and Clark Barrett
 
-**Abstract:** Forgetting is an important ontology extraction tool, often required in applications such as reuse, construction, debugging and querying of ontologies.  
-We study the notion of semantic forgetting which preserves all second order consequences of the original ontology.  
-In the context of expressive description logics such as ALC, a major problem is that the extracted ontology is not in general representable in the language of the original ontology.  
-We study different alternatives, in particular, representing the extracted ontology in a more complex logic, and extending the vocabulary of the extracted ontology with helper concept symbols.  
-Our findings show that the latter alternative is preferable.  
-Based on this representation, we develop and evaluate a terminating semantic forgetting method that preserves the structure of the original ontology.
+**Combining Finite Combination Properties: Finite Models and Busy Beavers**
+
+**Abstract:** This work is a part of an ongoing effort to understand the relationships between properties used in theory combination. We here focus on including two properties that are related to shiny theories: the finite model property and stable finiteness. For any combination of properties, we consider the question of whether there exists a theory that exhibits it. When there is, we provide an example with the simplest possible signature. One particular class of interest includes theories with the finite model property that are not finitely witnessable. To construct such theories, we utilize the Busy Beaver function.
 
 ---
 
-Hai Lin, Christopher Lynch, Andrew M. Marshall, Catherine Meadows, Paliath Narendran, Veena Ravishankar and Brandon Rozek. 
-**Algorithmic Problems in the Symbolic Approach to the Verification of Automatically Synthesized Cryptosystems**
+Yasmine Briefs, [Christoph Weidenbach](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/christoph-weidenbach) and Hendrik Leidinger
 
-**Abstract:** In this paper, we study several algorithmic problems arising from the verification of automatically synthesized cryptosystems built from block ciphers, in a theory that includes $ACUN$ symbols $\\oplus$ and $0$, as well as a symbol $f$ standing for the block cipher. One of these is static equivalence to an algorithm that produces a sequence of random terms. This is equivalent to there being no subsequence of ciphertext blocks that $\\oplus$-sums to $0$. The other is invertibility, the problem of determining whether, given a cryptosystem built from block ciphers, and the ability to compute $f$ and $f^{-1}$, it is always possible to compute the original plaintext from the ciphertext. We show that static equivalence to random in this theory is undecidable in general. In addition, we identify a reasonable special case for which there is a decidable condition implying security, along with an algorithm for verifying it. For invertibility, we identify a reasonable class of cryptosystems for which invertibility is equivalent to a simple syntactic condition that can be easily verified.
+**KBO Constraint Solving Revisited**
 
----
-
-Antoine Defourné. 
-**Improving Automation for Higher-order Proof Steps**
-
-**Abstract:** We have extended the TLA+ proof system TLAPS with a new backend to improve the automation of proof steps that involve higher-order reasoning. The current support for such steps is poor, requiring the user to break down proofs into unnecessarily small steps. We defined a translation from TLA+ to THF, the TPTP dialect for higher-order logic, and integrated Zipperposition into TLAPS. We evaluate Zipperposition on proofs from the standard library of TLA+ and demonstrate that the new backend is able to handle much coarser proof steps than the other strategies provided by TLAPS, reducing the amount of necessary user interactions to write the proofs.
-
----
-
-Hai Lin and Christopher Lynch. 
-**Formal Analysis of Symbolic Authenticity**
-
-**Abstract:** Authenticated encryption schemes are ways of encrypting messages which simultaneously assure the confidentiality and authenticity of data. Designing authenticated encryption schemes can be error-prone. In this paper, we are interested in the authenticity of authenticated encryption schemes. We introduce the notion of symbolic authenticity, and present two inference systems for verifying symbolic authenticity. The first inference system works for authenticated encryption schemes for messages of fixed length. It is sound, complete and terminating. The second one works for authenticated encryption schemes for messages of arbitrary length. It is sound, terminating, and complete under some condition. These inference systems can be used to automatically synthesize authenticated encryption schemes.
+**Abstract:** KBO constraint solving is very well-known to be an NP-complete problem.
+Motivated by the needs of the family of SCL calculi, we consider the particular
+case where all terms occurring in a constraint are bound by a (single) ground term.
+We show that this problem and variants of this problem remain NP-complete even if the form of atoms in the constraint
+is further restricted. In addition, for a non-strict, partial term ordering solely based on symbol counting constraint solving remains NP-complete.
+Nevertheless, we provide a new simple algorithm testing KBO constraint solvability that performs well on benchmark examples.
 
 ---
 
-[Pascal Fontaine](http://www.montefiore.ulg.ac.be/~pfontain/) and [Hans-Jörg Schurr](https://schurr.io). 
-**Quantifier Simplification by Unification in SMT**
+Burak Ekici, [Arjun Viswanathan](https://homepage.divms.uiowa.edu/~viswanathn/), Yoni Zohar, Cesare Tinelli and Clark Barrett
 
-**Abstract:** Quantifier reasoning in SMT solvers relies on instantiation: ground  
-instances are generated heuristically from the quantified formulas until  
-a contradiction is reached at the ground level. Current instantiation  
-heuristics, however, often fail in presence of nested quantifiers.  
-To address this issue we introduce a unification-based method that  
-augments the problem with shallow quantified formulas obtained from  
-assertions with nested quantifiers. These new formulas help unlocking the  
-regular instantiation techniques, but parsimony is necessary since they  
-might also be misguiding. To mitigate this, we identify some effective  
-restricting conditions. The method is implemented in the veriT solver,  
-and tested on benchmarks from the SMT-LIB. It allows the solver to  
-prove more formulas, faster.
+**Formal Verification of Bit-vector Invertibility Conditions in Coq**
 
----
-
-Serdar Erbatur, [Andrew M. Marshall](https://www.marshallandrew.net/) and [Christophe Ringeissen](http://www.loria.fr/~ringeiss/). 
-**Non-Disjoint Combined Unification and Closure by Equational Paramodulation**
-
-**Abstract:** Closure properties such as forward closure and closure via  
-paramodulation have proven to be very useful in equational  
-logic, especially for the formal analysis of security  
-protocols. In this paper, we consider the non-disjoint  
-unification problem in conjunction with these closure  
-properties. Given a base theory $E$, we consider classes of  
-theory extensions of $E$ admitting a unification algorithm  
-built in a hierarchical way. In this context, a hierarchical  
-unification procedure is obtained by extending an  
-$E$-unification algorithm with some additional inference rules  
-to take into account the rest of the theory. We look at  
-hierarchical unification procedures by investigating an  
-appropriate notion of $E$-constructed theory, defined in terms  
-of $E$-paramodulation. We show that any $E$-constructed  
-theory with a finite closure by $E$-paramodulation admits a  
-terminating hierarchical unification procedure. We present  
-modularity results for the unification problem modulo the  
-union of $E$-constructed theories sharing only symbols in $E$.  
-Finally, we also give sufficient conditions for obtaining  
-terminating (combined) hierarchical unification procedures in  
-the case of regular and collapse-free $E$-constructed  
-theories.
+**Abstract:** We prove the correctness of invertibility conditions for the theory
+of fixed-width bit-vectors---used to solve quantified bit-vector formulas
+in the Satisfiability Modulo Theories (SMT) solver cvc5--- in
+the coq proof assistant. While many of these were proved in a completely
+automatic fashion for arbitrary bit-width, some were only proved for bit-widths up
+to 65, even though they are being used to solve formulas over larger
+bit-widths. In this paper we describe the process of proving a
+representative subset of these invertibility conditions in coq.
+In particular, we describe the BVLIST library for bit-vectors
+in coq, our extensions to it, and proofs of the invertibility conditions.
 
 ---
 
-[K. Subramani](http://www.csee.wvu.edu/~ksmani), Piotr Wojciechowski and Alvaro Velasquez. 
-**On the copy complexity of width~$3$ Horn constraint systems**
+Olle Torstensson and [Tjark Weber](https://user.it.uu.se/~tjawe125/)
 
-**Abstract:** In this paper, we analyze the copy complexity of unsatisfiable width~$3$ Horn  
-constraint systems, under the ADD refutation system. Recall that a  
-linear constraint of the form $\\sum\_{i=1}^{n} a\_{i}\\cdot x\_{i} \\ge  
-b$, is said to be a Horn constraint if all the $a\_{i} \\in \\{0,1,-1\\}$  
-and at most one of the $a\_{i}$s is positive. A conjunction of such  
-constraints is called a Horn constraint system (HCS). An HCS is said to  
-have width~$3$, if there are at most $3$ variables with non-zero  
-coefficients per constraint. Horn  
-constraints arise in a number of domains including but not limited to  
-program verification, power systems, econometrics, and operations  
-research. The ADD refutation system is both {\\bf sound} and {\\bf  
-complete}. Additionally, it is the simplest and most natural  
-refutation system for refuting the feasibility of a system of linear  
-constraints. The copy complexity of an infeasible linear constraint system (not  
-necessarily Horn) in a refutation system is the minimum number of times each  
-constraint  
-needs to be replicated, in order to obtain a read-once refutation. We  
-show that for an HCS with $n$ variables and $m$ constraints, the copy  
-complexity is at most $2^{n-1}$, in the ADD refutation system. Additionally, we  
-analyze  
-width~$3$ HCSs from the perspective of copy complexity.  
+**Hammering Floating-Point Arithmetic**
+
+**Abstract:** Sledgehammer, a component of the interactive proof assistant Isabelle/HOL, aims to increase proof automation by automatically discharging proof goals with the help of external provers. Among these provers are a group of satisfiability modulo theories (SMT) solvers with support for the SMT-LIB input language. Despite existing formalizations of IEEE floating-point arithmetic in both Isabelle/HOL and SMT-LIB, Sledgehammer employs an abstract translation of floating-point types and constants, depriving the SMT solvers of the opportunity to make use of their dedicated decision procedures for floating-point arithmetic.
+
+We show that, by extending Sledgehammer's translation from the language of Isabelle/HOL into SMT-LIB with an interpretation of floating-point types and constants, floating-point reasoning in SMT solvers can be made available to Isabelle/HOL. Our main contribution is a description and implementation of such an extension. An evaluation of the extended translation shows a significant increase of Sledgehammer's success rate on proof goals involving floating-point arithmetic.
 
 ---
 
-Laine Rumreich and [Paolo A. G. Sivilotti](http://www.cse.ohio-state.edu/~paolo). 
-**Formal Verification of a Java Component Using the RESOLVE Framework**
+Liao Zhang, Lasse Blaauwbroek, [Cezary Kaliszyk](http://cl-informatik.uibk.ac.at/cek/) and Josef Urban
 
-**Abstract:** A Binary Decision Diagram (BDD) is an efficient representation of a boolean formula with many applications in model checking, SAT solving, and networking. Recently, BDDs have also been used for solving problems in artificial intelligence, including the mining of frequent subsequences in higher-dimensional datasets. This paper uses the RESOLVE specification and reasoning framework to formally verify the functional correctness of a Java implementation of a BDD component. RESOLVE uses rich mathematical abstractions and clean value-based semantics for modular reasoning of assertive code. Java, on the other hand, includes many language features that are inconsistent with this notion of clean semantics and modular reasoning. Aliases, in particular, are easily created via assignment, parameter passing, and iterators, so reference-based semantics and points-to analysis are usually necessary when reasoning about Java code. This paper demonstrates the combination of these two paradigms. The implementation uses Java, but in a disciplined way and layered on a component catalog expressly designed to support modular reasoning. The assertional aspects of the code use RESOLVE, but are tailored to Java syntax and language constructs. In the development of the correctness proof for the BDD component, several errors in the original Java implementation were discovered and corrected. These errors were present despite the implementation passing an extensive test suite, exhibiting the value of the proof. The verification also exposed a limitation in the more general component design pattern related to unreachable code.
+**Learning Proof Transformations and Its Applications in Interactive Theorem Proving**
 
----
-
-[Peter Baumgartner](http://users.rsise.anu.edu.au/~baumgart/). 
-**Combining Event Calculus and Description Logic Reasoning via Logic Programming**
-
-**Abstract:** The paper introduces a knowledge representation language that combines Kowalski's event calculus with description logic in a logic programming framework. The purpose is to provide the user with an expressive language for modelling and analysing systems that evolve over time. The description logic component is intended for modelling structural properties, the event calculus for actions and their consequences, and the logic programming rules for their integration and other aspects, such as diagnosis. By means of an elaborated example, the paper demonstrate the interplay of these three components for computing possible models as plausible explanations of the current state of the modelled system. The approach is prototypically implemented in our logic programming system Fusemate. The paper first extends Fusemate's rule language with a weakly DL-safe interface to the description logic ALCIF (which is implemented in Fusemate itself). It then embeds a suitable version of the event calculus, and provides rules as the "glue" between these components.
+**Abstract:** Interactive theorem provers are today increasingly used to certify mathematical theories. To formally prove a theorem, reasoning procedures called tactics are invoked successively on the proof states starting with the initial theorem statement, transforming them into subsequent intermediate goals, and ultimately discharging all proof obligations. In this work, we develop and experimentally evaluate approaches that predict the most likely tactics that will achieve particular desired transformations of proof states. First, we design several characterizations to efficiently capture the semantics of the proof transformations. Then we use them to create large datasets on which we train state-of-the-art random forests and language models. The trained models are evaluated experimentally, and we show that our best model is able to guess the right tactic for a given proof transformation in 74% of the cases. Finally, we use the trained methods in two applications: proof shortening and tactic suggesting. To the best of our knowledge, this is the first time that tactic synthesis is trained on proof transformations and assists interactive theorem proving in these ways.
 
 ---
 
-[Dennis Peuter](https://userpages.uni-koblenz.de/~dpeuter/) and [Viorica Sofronie-Stokkermans](http://userpages.uni-koblenz.de/~sofronie/). 
-**Symbol Elimination and Applications to Parametric Entailment Problems**
+Farah Al Wardani, [Kaustuv Chaudhuri](https://chaudhuri.info/) and Dale Miller
 
-**Abstract:** The main motivation for this work is the study of models for graph classes occurring in wireless network research. The properties of some functions and predicates used for the descriptions of such classes can be underspecified - we refer to such symbols as parameters.  
-We are interested in finding conditions on such "parameters'' under which the graph classes are consistent resp. under which containedness or equality between graph classes holds.  
-Such problems are non-trivial: For testing containedness between graph classes described using transformations we need to check entailment of second-order formulae.  
-  
-In this paper we combine two symbol elimination methods for solving such problems:  
-(i) general symbol elimination - which we use for eliminating existentially quantified predicates and  
-(ii) property-directed symbol elimination - which we use for obtaining conditions on parameters under which formulae are satisfiable or entailment holds.  
-  
-For general second-order quantifier elimination we use a specialization of the hierarchical superposition calculus. We analyze possibilities of obtaining weakest constraints on parameters which guarantee satisfiability (using a method we proposed in previous work, based on locality of suitable theories, instantiation and hierarchical reduction to quantifier elimination in a base theory).  
-We identify situations in which entailment between formulae (possibly expressed using second order quantification) can be effectively checked, and - if entailent does not hold - possibilities of deriving additional constraints on parameters under which entailment can be guaranteed.
+**Formal Reasoning using Distributed Assertions**
+
+**Abstract:** When a proof system checks a formal proof, we can say that the kernel asserts that the formula is a theorem in a particular logic. We describe a general framework in which such assertions can be made global so that any other proof assistant willing to trust the creator of the assertion can use that assertion without rechecking any associated formal proof. This framework is heterogeneous and allows each participant to decide which tools and operators they are willing to trust in order to accept external assertions. This framework can also be integrated into existing proof systems by making minor changes to the input and output subsystems of the prover. It achieves a high level of distributivity using off-the-shelf technologies: IPFS, IPLD, and public key cryptography. We illustrate the framework by providing implementations of an intermediate tool for validating and publishing assertion objects and a modified version of the Abella theorem prover that can use and publish such assertions.
+
+---
+
+Ryota Haga, Yuki Kagaya and [Takahito Aoto](http://www.nue.ie.niigata-u.ac.jp/~aoto/)
+
+**A Critical Pair Criterion for Level-Commutation of Conditional Term Rewriting Systems**
+
+**Abstract:** The rewrite relation of a conditional term rewriting system (CTRS) can be divided into a hierarchy of rewrite relations of term rewriting systems (TRSs) by the depth of the recursive use of rewrite relation in conditions; a CTRS is said to be level-confluent if each of these TRSs are confluent, and level-confluence implies confluence. We introduce level-commutation of CTRSs that extends the notion of level-confluence, in a way similar to extending confluence to commutation, and give a critical pair criterion for level-commutation of oriented CTRSs with extra variables (3-CTRSs). Our result generalizes a criterion for commutation of TRSs of (Toyama, 1987), and properly extends a criterion for level-confluence of orthogonal oriented 3-CTRSs (Suzuki et al., 1995). We also present critical pair criteria for commutation and confluence of join and semi-equational 3-CTRSs that may have overlaps.
+
+---
+
+Martin Bromberger, Lorenz Leutgeb and [Christoph Weidenbach](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/christoph-weidenbach)
+
+**Symbolic Model Construction for Saturated Constrained Horn Clauses**
+
+**Abstract:** Clause sets saturated by hierarchic superposition do not offer an explicit model representation, rather the guarantee that all non-redundant inferences have been performed without deriving a contradiction. We present an approach to explicit model construction for saturated constrained Horn clauses. Constraints are in linear arithmetic, the first-order part is restricted to a function-free language. The model construction is effective and clauses can be evaluated with respect to the model. Furthermore, we prove that our model construction produces the least model.
+
+---
+
+[Sibylle Möhle](https://www.mpi-inf.mpg.de/departments/automation-of-logic/people/sibylle-moehle)
+
+**An Abstract CNF-to-d-DNNF Compiler Based on Chronological CDCL**
+
+**Abstract:** We present Abstract CNF2dDNNF, a calculus describing an approach for compiling a formula in conjunctive normal form (CNF) into deterministic negation normal form (d-DNNF). It combines component-based reasoning with a model enumeration approach based on conflict-driven clause learning (CDCL) with chronological backtracking. Its properties, such as soundness and termination, carry over to implementations which can be modeled by means of it. We provide a rigorous correctness proof and a detailed example. The main conceptual differences to currently available tools targeting d-DNNFs are discussed and future research directions presented. The aim of this work is to introduce a novel method for d-DNNF compilation with focus on model computation. To the best of our knowledge, our approach is the first knowledge compilation method using CDCL with chronological backtracking.
+
+---
+
+Chad Brown, [Adam Pease](https://www.adampease.org/) and Josef Urban
+
+**Translating SUMO-K to Higher-Order Set Theory**
+
+**Abstract:** We describe a translation from a fragment of SUMO (SUMO-
+K) into higher-order set theory. The translation provides a formal seman-
+tics for portions of SUMO which are beyond first-order and which have
+previously only had an informal interpretation. It also for the first time
+embeds a large common-sense ontology into a very secure interactive
+theorem proving system. We further extend our previous work in finding
+contradictions in SUMO from first order constructs to include a portion
+of SUMO’s higher order constructs. Finally, using the translation, we can
+create problems that can be proven using higher-order interactive and
+automated theorem provers. This is tested in several systems and can be
+used to form a corpus of higher-order common-sense reasoning problems.
