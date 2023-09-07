@@ -1,7 +1,7 @@
-<!-- <h4>Wednesday 8 September</h4> -->
+# Program
 
-<p>All times are in British Summer Time (BST). </p>
-<p> Zoom link for all talks: <a href="https://bham-ac-uk.zoom.us/j/81006870823">https://bham-ac-uk.zoom.us/j/81006870823</a></p>
+The FroCoS talks will be held in room 571 of building B on Wednesday and Thursday,
+all invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday in the Red Room.
 
 <table>
   <tbody>
