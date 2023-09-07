@@ -2,8 +2,15 @@
 
 ## Venue
 
-The conference will be located at the <a href="http://ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a> of <a href="http://www.cvut.cz">Czech Technical University in Prague (CTU)</a>.  
-s
+The conference will be located at the <a href="http://ciirc.cvut.cz/">Czech Institute of Informatics, Robotics, and Cybernetics (CIIRC)</a> of <a href="http://www.cvut.cz">Czech Technical University in Prague (CTU)</a>.
+The invited talks and the full program on Friday will be held in the <a href="https://www.ciirc.cvut.cz/about/ciirc-ctu-building/">Red Room</a> in building B,
+the other talks on Wednesday and Thursday (including the business meeting) will happen
+in the room 571.
+Coffee breaks and lunches will be held in Respirium.
+When attending the conference, use entrance B from the street Jugoslávských partyzánů and
+then follow signs pointing you to the conference registration desk.
+The registration desk will open at 8:30 AM on Wednesday.
+
 The venue address is: Jugoslávských partyzánů 1580/3, Dejvice, Praha.
 
 <p><div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1279.5416994861462!2d14.393923821572495!3d50.103445927619916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x72d5d7faff1cb933!2s%C4%8Cesk%C3%BD+institut+informatiky%2C+robotiky+a+kybernetiky!5e0!3m2!1scs!2scz!4v1508487103659" width="480" height="480" frameborder="0" style="border:0" allowfullscreen></iframe></div>
