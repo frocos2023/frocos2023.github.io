@@ -1,6 +1,6 @@
 # Program
 
-All invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday are in the Red Room.
+All invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday will be held in the Red Room.
 The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 of building B.
 
 <table>
@@ -79,6 +79,38 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
      <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
   </tr>
 
+  <tr>
+     <td><span class="ptime">10:25-10:55</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime"></span></td>
+    <td  colspan="2"><b>Session:</b> <i>Analysis of Programs and Equations</i> (Chair: TBA)</td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">11:00-11:30</span></td>
+     <td><span class="pauthors">Nils Lommen and Jürgen Giesl</span></td>
+     <td><span class="ptitle">Targeting Completeness: Using Closed Forms for Size Bounds of Integer Programs</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">11:30-12:00</span></td>
+     <td><span class="pauthors">Visa Nummelin, Jasmin Blanchette and Sander R. Dahmen</span></td>
+     <td><span class="ptitle">Recurrence-Driven Summations in Automated Deduction</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">12:00-12:30</span></td>
+     <td><span class="pauthors">Burak Ekici, Arjun Viswanathan, Yoni Zohar, Cesare Tinelli and Clark Barrett</span></td>
+     <td><span class="ptitle">Formal Verification of Bit-vector Invertibility Conditions in Coq</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">12:35-14:00</span></td>
+     <td colspan="2"><span class="pevent">Lunch &amp; best paper awards ceremony (Respirium) </span></td>
+  </tr>
 
 
 
