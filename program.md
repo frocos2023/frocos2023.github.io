@@ -16,12 +16,17 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
 
   <tr>
      <td><span class="ptime">09:00-09:05</span></td>
-     <td colspan="2"><span class="pevent">Conference welcome</span></td>
+     <td colspan="2"><span class="pevent">FroCoS Conference Welcome</span></td>
+  </tr>
+
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Invited Talk - Joint with Tableaux</b></td>
   </tr>
 
   <tr>
      <td><span class="ptime">09:05-10:00</span></td>
-     <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
+     <td><span class="pauthors">Valentin Goranko <br/></span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
   <tr>
