@@ -10,7 +10,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   </tr>
 
   <tr>
-     <td><span class="ptime">08:30-09:00</span></td>
+     <td><span class="ptime">08:30-08:55</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
 
