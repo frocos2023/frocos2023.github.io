@@ -1,7 +1,7 @@
 # Program
 
-The FroCoS talks will be held in room 571 of building B on Wednesday and Thursday,
-all invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday in the Red Room.
+All invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday in the Red Room.
+The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 of building B.
 
 <table>
   <tbody>
@@ -10,12 +10,12 @@ all invited talks (joint with Tableaux on Wednesday and Thursday) as well as the
   </tr>
 
   <tr>
-     <td><span class="ptime">08:40-09:00</span></td>
+     <td><span class="ptime">08:30-09:00</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
   <tr>
      <td><span class="ptime">09:00-10:00</span></td>
-     <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
+     <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
   <tr>
@@ -24,7 +24,6 @@ all invited talks (joint with Tableaux on Wednesday and Thursday) as well as the
   </tr>
 
 
-<h4>Thursday 9 September</h4>
 <table>
   <tbody> -->
   <tr>
