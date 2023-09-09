@@ -6,19 +6,23 @@ all invited talks (joint with Tableaux on Wednesday and Thursday) as well as the
 <table>
   <tbody>
   <tr>
-    <td colspan="3"><span> <br><h4> Wednesday 8 September</h4></span></td>
+    <td colspan="3"><span> <br><h4>Wednesday 20th September</h4></span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">08:40-09:00</span></td>
+     <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
   <tr>
-    <td ></td>
-    <td  colspan="2"><span ><b>Invited Talk</b> (Joint with TABLEAUX)</span></td>
+     <td><span class="ptime">09:00-10:00</span></td>
+     <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
+     <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
   <tr>
-    <td  >14:00 - 15:00</td>
-    <td  >Michael Benedikt</td>
-    <td >The Strange Career of Interpolation and Definability</td>
+     <td><span class="ptime">10:00-10:30</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
-  <!-- </tbody>
-</table>  
+
 
 <h4>Thursday 9 September</h4>
 <table>
