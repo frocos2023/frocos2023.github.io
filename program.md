@@ -79,8 +79,13 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   </tr>
 
   <tr>
+    <td ></td>
+    <td  colspan="2"><b>Invited Talk - Joint with Tableaux</b></td>
+  </tr>
+
+  <tr>
      <td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Marta Bílková <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
+     <td><span class="pauthors">Marta Bílková <br/></span></td>
      <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
   </tr>
 
@@ -118,8 +123,13 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   </tr>
 
   <tr>
+    <td ></td>
+    <td  colspan="2"><b>Invited Talk - Joint with Tableaux</b></td>
+  </tr>
+
+  <tr>
      <td><span class="ptime">14:00-15:00</span></td>
-     <td><span class="pauthors">Chad E. Brown <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
+     <td><span class="pauthors">Chad E. Brown <br/></span></td>
      <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
   </tr>
   <tr>
@@ -163,8 +173,77 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
      <td><span class="ptitle">On Datatypes, Synergies, and Unicorns: Recent Developments in Theory Combination</span></td>
   </tr>
 
+  <tr>
+     <td><span class="ptime">10:00-10:30</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
+  </tr>
 
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Frameworks</i> (Chair: TBA)</td>
+  </tr>
 
+  <tr>
+     <td><span class="ptime">10:30-11:00</span></td>
+     <td><span class="pauthors">Sibylle Möhle</span></td>
+     <td><span class="ptitle">An Abstract CNF-to-d-DNNF Compiler Based on Chronological CDCL</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">11:00-11:30</span></td>
+     <td><span class="pauthors">Guilherme Toledo, Yoni Zohar and Clark Barrett</span></td>
+     <td><span class="ptitle">Combining Finite Combination Properties: Finite Models and Busy Beavers</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">11:30-12:00</span></td>
+     <td><span class="pauthors">Farah Al Wardani, Kaustuv Chaudhuri and Dale Miller</span></td>
+     <td><span class="ptitle">Formal Reasoning using Distributed Assertions</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">12:00-14:00</span></td>
+     <td colspan="2"><span class="pevent">Lunch (Respirium) </span></td>
+  </tr>
+
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Invited Talk</b> (Chair: TBA)</td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">14:00-15:00</span></td>
+     <td><span class="pauthors">Katalin Fazekas</span></td>
+     <td><span class="ptitle">Incremental Reasoning in Embedded SAT Solvers</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">15:00-15:30</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
+  </tr>
+
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Higher Order Theorem Proving</i> (Chair: TBA)</td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">15:30-16:00</span></td>
+     <td><span class="pauthors">Olle Torstensson and Tjark Weber</span></td>
+     <td><span class="ptitle">Hammering Floating-Point Arithmetic</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">16:00-16:30</span></td>
+     <td><span class="pauthors">Chad Brown, Adam Pease and Josef Urban</span></td>
+     <td><span class="ptitle">Translating SUMO-K to Higher-Order Set Theory</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">16:30-17:00</span></td>
+     <td><span class="pauthors">Liao Zhang, Lasse Blaauwbroek, Cezary Kaliszyk and Josef Urban</span></td>
+     <td><span class="ptitle">Learning Proof Transformations and Its Applications in Interactive Theorem Proving</span></td>
+  </tr>
 
   </tbody>
 </table>
