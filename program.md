@@ -40,11 +40,50 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
      <td><span class="ptitle">Weighted Path Orders are Semantic Path Orders</span></td>
   </tr>
 
+  <tr>
+     <td><span class="ptime">11:10-11:40</span></td>
+     <td><span class="pauthors">Yasmine Briefs, Christoph Weidenbach and Hendrik Leidinger</span></td>
+     <td><span class="ptitle">KBO Constraint Solving Revisited</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">11:40-12:10</span></td>
+     <td><span class="pauthors">Ryota Haga, Yuki Kagaya and Takahito Aoto</span></td>
+     <td><span class="ptitle">A Critical Pair Criterion for Level-Commutation of Conditional Term Rewriting Systems</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">12:20-14:00</span></td>
+     <td colspan="2"><span class="pevent">Lunch (Respirium)</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Excursion &amp; Conference dinner</b></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">14:00-18:00</span></td>
+     <td colspan="2"><span class="ptitle">Transport and excursion to Karlštejn castle</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">18:00-22:00</span></td>
+     <td colspan="2"><span class="ptitle">Transport and conference dinner in Unětice</span></td>
+  </tr>
+
+  <tr>
+    <td colspan="3"><span> <br><h4>Thursday 21th September</h4></span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">09:25-10:25</span></td>
+     <td><span class="pauthors">Marta Bílková <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
+     <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
+  </tr>
+
 
 
 
   <tr>
-    <td colspan="3"><span> <br> <h4> Thursday 9 September</h4></span></td>
+    <td colspan="3"><span> <br> <h4> OLD STUFF</h4></span></td>
   </tr>
   <tr>
     <td  >09:00 - 09:05</td>
