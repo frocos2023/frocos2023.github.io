@@ -75,7 +75,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
 
   <tr>
      <td><span class="ptime">09:25-10:25</span></td>
-     <td><span class="pauthors">Marta Bílková <br/><b>Invited Talk - Joint with FroCoS</b></span></td>
+     <td><span class="pauthors">Marta Bílková <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
      <td><span class="ptitle">Epistemic Logics of Structured Intensional Groups: Agents - groups - names-types</span></td>
   </tr>
 
@@ -111,6 +111,39 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
      <td><span class="ptime">12:35-14:00</span></td>
      <td colspan="2"><span class="pevent">Lunch &amp; best paper awards ceremony (Respirium) </span></td>
   </tr>
+
+  <tr>
+     <td><span class="ptime">14:00-15:00</span></td>
+     <td><span class="pauthors">Chad E. Brown <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
+     <td><span class="ptitle"> First-Order Instantiation-Based Tableau</span></td>
+  </tr>
+  <tr>
+     <td><span class="ptime">15:00-15:30</span></td>
+     <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
+  </tr>
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Decidable Fragments</i> (Chair: TBA)</td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">15:40-16:10</span></td>
+     <td><span class="pauthors">Martin Bromberger, Lorenz Leutgeb and Christoph Weidenbach</span></td>
+     <td><span class="ptitle">Explicit Model Construction for Saturated Constrained Horn Clauses</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">16:10-16:40</span></td>
+     <td><span class="pauthors">Giorgio Cignarale, Roman Kuznets, Hugo Rincon Galeana and Ulrich Schmid</span></td>
+     <td><span class="ptitle">Logic of Communication Interpretation: How to not get lost in translation</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">16:45-17:00</span></td>
+     <td colspan="2"><span class="pevent">Business meeting</span></td>
+  </tr>
+
+
 
 
 
