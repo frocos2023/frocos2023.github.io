@@ -1,6 +1,6 @@
 # Program
 
-All invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday in the Red Room.
+All invited talks (joint with Tableaux on Wednesday and Thursday) as well as the program on Friday are in the Red Room.
 The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 of building B.
 
 <table>
@@ -13,8 +13,14 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
      <td><span class="ptime">08:30-09:00</span></td>
      <td colspan="2"><span class="pevent">Registration/Front desk</span></td>
   </tr>
+
   <tr>
-     <td><span class="ptime">09:00-10:00</span></td>
+     <td><span class="ptime">09:00-09:05</span></td>
+     <td colspan="2"><span class="pevent">Conference welcome</span></td>
+  </tr>
+
+  <tr>
+     <td><span class="ptime">09:05-10:00</span></td>
      <td><span class="pauthors">Valentin Goranko <br/><b>Invited Talk - Joint with Tableaux</b></span></td>
      <td><span class="ptitle"> Combining Semantic Tableaux</span></td>
   </tr>
@@ -23,9 +29,20 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
      <td colspan="2"><span class="pevent">Coffee break (Respirium)</span></td>
   </tr>
 
+  <tr>
+    <td ></td>
+    <td  colspan="2"><b>Session:</b> <i>Unification</i> (Chair: TBA)</td>
+  </tr>
 
-<table>
-  <tbody> -->
+  <tr>
+     <td><span class="ptime">10:40-11:10</span></td>
+     <td><span class="pauthors">Teppei Saito and Nao Hirokawa</span></td>
+     <td><span class="ptitle">Weighted Path Orders are Semantic Path Orders</span></td>
+  </tr>
+
+
+
+
   <tr>
     <td colspan="3"><span> <br> <h4> Thursday 9 September</h4></span></td>
   </tr>
