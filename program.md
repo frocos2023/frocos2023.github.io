@@ -154,7 +154,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   </tr>
 
   <tr>
-     <td><span class="ptime">16:45-17:00</span></td>
+     <td><span class="ptime">16:45-17:15</span></td>
      <td colspan="2"><span class="pevent"><b>FroCoS business meeting</b> (Chair: Franz Baader)</span></td>
   </tr>
 
