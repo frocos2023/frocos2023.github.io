@@ -60,10 +60,10 @@ We have good experiences with the following places.
 
 ![Towards the Red Room, Respirium and B-571](data/005.jpeg "Towards the Red Room, Respirium and B-571")
 
-![Towards B-571, down the long corridor](data/571/005.jpeg "Towards B-571, down the long corridor")
-![Towards B-571, looking for an elevator](data/571/006.jpeg "Towards B-571, looking for an elevator")
-![Towards B-571, found an elevator](data/571/007.jpeg "Towards B-571, found an elevator")
-![Towards B-571, aiming for the fifth floor](data/571/008.jpeg "Towards B-571, aiming for the fifth floor")
-![Towards B-571, getting off and turning right](data/571/009.jpeg "Towards B-571, getting off and turning right")
-![Towards B-571, found it!](data/571/010.jpeg "Towards B-571, found it!")
+![Towards B-571, down the long corridor](data/571/005.jpg "Towards B-571, down the long corridor")
+![Towards B-571, looking for an elevator](data/571/006.jpg "Towards B-571, looking for an elevator")
+![Towards B-571, found an elevator](data/571/007.jpg "Towards B-571, found an elevator")
+![Towards B-571, aiming for the fifth floor](data/571/008.jpg "Towards B-571, aiming for the fifth floor")
+![Towards B-571, getting off and turning right](data/571/009.jpg "Towards B-571, getting off and turning right")
+![Towards B-571, found it!](data/571/010.jpg "Towards B-571, found it!")
 
