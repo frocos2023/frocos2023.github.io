@@ -17,10 +17,6 @@ The venue address is: Jugoslávských partyzánů 1580/3, Dejvice, Praha.
 <p><div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1279.5416994861462!2d14.393923821572495!3d50.103445927619916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x72d5d7faff1cb933!2s%C4%8Cesk%C3%BD+institut+informatiky%2C+robotiky+a+kybernetiky!5e0!3m2!1scs!2scz!4v1508487103659" width="480" height="480" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 </p>
 
-## Navigating the Building
-
-![Getting to the CIIRC building from the nearest metro station](data/001.jpeg "Getting to the CIIRC building from the nearest metro station")
-
 ## Travel Information
 
 In order to get to the conference venue from the Prague airport of Václav Havel
@@ -51,4 +47,23 @@ We have good experiences with the following places.
 * <a href="https://www.booking.com/hotel/cz/hotel-international-prague.cs.html?aid=356980&label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB-Share-fqRbPU%401689853378&sid=65372c908ecf76200c89f9a0b48d804e&checkin_month=9&checkin_monthday=18&checkin_year=2023&checkout_month=9&checkout_monthday=23&checkout_year=2023&dist=0&group_adults=1&group_children=0&keep_landing=1&no_rooms=1&sb_price_type=total&type=total&">Grand Hotel International</a>
 * Cheaper choice: Hotel <a href="https://www.booking.com/hotel/cz/masarykova-kolej.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB;sid=061fa145f43fcd2eaea1aa47d21bc966;atlas_src=sr_iw_btn;checkin=2019-07-07;checkout=2019-07-12;dist=0;from_map_sr=1;group_adults=1;group_children=0;highlighted_blocks=128357403_89048212_2_1_0;no_rooms=1;room1=A;sb_price_type=total;type=total;ucfs=1&">Masarykova Kolej</a>
 * or <a href="https://www.booking.com/searchresults.cs.html?ss=Dejvick%C3%A1+stanice+metra%2C+Praha%2C+%C4%8Cesk%C3%A1+republika&map=1&ssne=Praha&ssne_untouched=Praha&label=gen173nr-1FCAEoggI46AdIM1gEaDqIAQGYATG4ARnIAQ_YAQHoAQH4AQKIAgGoAgO4AonpxeYFwAIB&sid=78e16b304ba68b73d61e35dc207ebc97&aid=304142&lang=cs&sb=1&src_elem=sb&src=index&dest_id=20874&dest_type=landmark&ac_position=2&ac_click_type=b&ac_langcode=cs&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=3627673cbb360041&ac_meta=GhAzNjI3NjczY2JiMzYwMDQxIAIoATICY3M6CFByYWhhIERlQABKAFAA&checkin=2023-09-04&checkout=2023-09-08&group_adults=1&no_rooms=1&group_children=0&sb_travel_purpose=leisure#map_opened">search for the accomodation on booking.com</a> (searches around the metro station Dejvická)
+
+## Navigating the Building
+
+![Getting to the CIIRC building from the nearest metro station](data/001.jpeg "Getting to the CIIRC building from the nearest metro station")
+
+![Skipping the first entrance (building A)](data/002.jpeg "Skipping the first entrance (building A)")
+
+![Entering building B](data/003.jpeg "Entering building B")
+
+![Registration desk just behind the door](data/004.jpeg "Registration desk just behind the door")
+
+![Towards the Red Room, Respirium and B-571](data/005.jpeg "Towards the Red Room, Respirium and B-571")
+
+![Towards B-571, down the long corridor](data/571/005.jpeg "Towards B-571, down the long corridor")
+![Towards B-571, looking for an elevator](data/571/006.jpeg "Towards B-571, looking for an elevator")
+![Towards B-571, found an elevator](data/571/007.jpeg "Towards B-571, found an elevator")
+![Towards B-571, aiming for the fifth floor](data/571/008.jpeg "Towards B-571, aiming for the fifth floor")
+![Towards B-571, getting off and turning right](data/571/009.jpeg "Towards B-571, getting off and turning right")
+![Towards B-571, found it!](data/571/010.jpeg "Towards B-571, found it!")
 
