@@ -224,7 +224,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
 
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Higher Order Theorem Proving</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Higher Order Theorem Proving</i> (Chair: Katalin Fazekas)</td>
   </tr>
 
   <tr>
