@@ -36,7 +36,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
 
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Unification</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Unification</i> (Chair: Jürgen Giesl)</td>
   </tr>
 
   <tr>
@@ -180,7 +180,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
 
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Frameworks</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Frameworks</i> (Chair: Franz Baader)</td>
   </tr>
 
   <tr>
