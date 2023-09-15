@@ -96,7 +96,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
 
   <tr>
      <td><span class="ptime"></span></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Analysis of Programs and Equations</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Analysis of Programs and Equations</i> (Chair: Adam Dingle)</td>
   </tr>
 
   <tr>
