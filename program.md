@@ -138,7 +138,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   </tr>
   <tr>
     <td ></td>
-    <td  colspan="2"><b>Contributed Talks:</b> <i>Decidable Fragments</i> (Chair: TBA)</td>
+    <td  colspan="2"><b>Contributed Talks:</b> <i>Decidable Fragments</i> (Chair: Didier Galmiche)</td>
   </tr>
 
   <tr>
