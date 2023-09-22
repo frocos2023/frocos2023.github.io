@@ -42,7 +42,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   <tr>
      <td><span class="ptime">10:40-11:10</span></td>
      <td><span class="pauthors">Teppei Saito and Nao Hirokawa</span></td>
-     <td><span class="ptitle">Weighted Path Orders are Semantic Path Orders</span></td>
+     <td><span class="ptitle">Weighted Path Orders are Semantic Path Orders (a joint best paper)</span></td>
   </tr>
 
   <tr>
@@ -108,7 +108,7 @@ The remaining FroCoS talks (on Wednesday and Thursday) will be held in room 571 
   <tr>
      <td><span class="ptime">11:30-12:00</span></td>
      <td><span class="pauthors">Visa Nummelin, Jasmin Blanchette and Sander R. Dahmen</span></td>
-     <td><span class="ptitle">Recurrence-Driven Summations in Automated Deduction</span></td>
+     <td><span class="ptitle">Recurrence-Driven Summations in Automated Deduction (a joint best paper)</span></td>
   </tr>
 
   <tr>
